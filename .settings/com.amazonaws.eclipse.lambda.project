@@ -1,0 +1,5 @@
+#Lambda Function Project Metadata
+#Wed Sep 02 23:45:26 CST 2015
+lastDeploymentFunctionName=UpdateDatas
+lastDeploymentBucketName=lambdas-iot-smart-bus
+lastDeploymentEndpoint=https\://lambda.ap-northeast-1.amazonaws.com/
